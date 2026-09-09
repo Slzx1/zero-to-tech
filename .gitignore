@@ -1,3 +1,5 @@
 learning/
 .DS_Store
 zero-to-tech-demos/
+dist/
+node_modules/
